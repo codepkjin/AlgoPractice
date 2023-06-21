@@ -23,6 +23,6 @@ https://leetcode.com/list/re6fzkle/
 |18| [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/?envType=list&envId=re6fzkle)|
 |19| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=list&envId=re6fzkle)|
 |20| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/?envType=list&envId=re6fzkle)|
-|21| [Balanced Binary Tree(https://leetcode.com/problems/balanced-binary-tree/?envType=list&envId=re6fzkle)]
-|22|[Minimum Depth of Binary Tree(https://leetcode.com/problems/minimum-depth-of-binary-tree/?envType=list&envId=re6fzkle)]
-|23|[Path Sum(https://leetcode.com/problems/path-sum/?envType=list&envId=re6fzkle)]
+|21| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/?envType=list&envId=re6fzkle)|
+|22| [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/?envType=list&envId=re6fzkle)|
+|23| [Path Sum](https://leetcode.com/problems/path-sum/?envType=list&envId=re6fzkle)|
