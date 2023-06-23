@@ -1,0 +1,14 @@
+*************************************
+*   Practice plan. 
+**************************************
+
+1. Create branch for each question 
+    - branch name would be algo-Number. Number will be 3 digit filled with zero. 
+    - For example, you need to create a branch, algo-001 for "1	Palindrome Number" question. 
+    $ git branch algo-001      # This creates a local brach
+    $ git checkout algo-001    # you switch to working branch as algo-001 from main branch. 
+                               # In your git console, you see the current working branch 
+    # do your work. Once you done your code, you need to check in to remote repository 
+    $ git add your-file-name                         # add your changes to your staging area 
+    $ git commit -m 'algo-001: Panlindrome Number'   # commit your changes, and save to your local repository 
+    $ git push                                       # check in your code to remote repository                       
