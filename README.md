@@ -1,5 +1,25 @@
 # AlgoPractice
 알고리즘 연습 
+
+### Naming Rule 
+- branch : Algo-###, 예를 들어 1번 문제를 위한 working branch는 Algo-001
+- FileName : Solution###Language, 예를 들어 1번 문제를 Python으로 작성했다면, Solution001Python.py
+- Naming rule에 대해 제안점 있으면 알려주세요!
+
+### Git 명령어
+1. git pull                   <------------------_Mater 브랜치에서 pull 합니다._
+2. git branch BranchName                
+3. git checkout BranchName             
+4. 코딩하기
+5. git add FileName                   
+6. git commit -m 'Algo-001: Message'  
+7. git push                           
+### 그외 명령어
+- git status                          
+- git log                             
+- git stash                           
+
+### 연습문제 
 https://leetcode.com/list/re6fzkle/ 
 |N| topic |
 |-|--------|
