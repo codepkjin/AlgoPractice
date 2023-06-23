@@ -82,4 +82,3 @@ https://leetcode.com/list/re6fzkle/
 |77| [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/?envType=list&envId=re6fzkle)|
 |78| [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/?envType=list&envId=re6fzkle)|
 |79| [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/?envType=list&envId=re6fzkle)|
-|80| [title](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-create-a-GitHub-Personal-Access-Token-example)|
